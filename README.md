@@ -6,3 +6,16 @@ You can find me on :
 - My personnal website http://idrissdiallo.com/
 
 #### :computer: My Skills :
+
+• HTML 5 / CSS 3
+• Bootstrap / RWD
+• JavaScript / Jquery
+• Angular
+• Base de données / SQL
+• PHP
+• Framework Laravel / Symfony
+• Ajax
+• Approche de la sécurité
+• CMS Wordpress
+• E-Commerce
+• UX/UI Design
