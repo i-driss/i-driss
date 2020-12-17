@@ -5,6 +5,8 @@ You can find me on :
 - [Linkedin](https://www.linkedin.com/in/idriss-diallo-b1b99277/)   
 - [My personnal website](http://idrissdiallo.com/)  
 
+-----------------
+
 #### :computer: My Skills :
 
 • HTML 5 / CSS 3  
