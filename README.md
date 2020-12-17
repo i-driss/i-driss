@@ -12,10 +12,10 @@ You can find me on :
 • JavaScript / Jquery  
 • Angular  
 • Database / SQL  
-• PHP
-• Framework Laravel / Symfony
-• Ajax
-• Security approach
-• CMS Wordpress
-• E-Commerce
-• UX/UI Design
+• PHP  
+• Framework Laravel / Symfony  
+• Ajax  
+• Security approach  
+• CMS Wordpress  
+• E-Commerce  
+• UX/UI Design  
