@@ -7,15 +7,15 @@ You can find me on :
 
 #### :computer: My Skills :
 
-• HTML 5 / CSS 3
-• Bootstrap / RWD
-• JavaScript / Jquery
-• Angular
-• Base de données / SQL
+• HTML 5 / CSS 3  
+• Bootstrap / RWD  
+• JavaScript / Jquery  
+• Angular  
+• Database / SQL  
 • PHP
 • Framework Laravel / Symfony
 • Ajax
-• Approche de la sécurité
+• Security approach
 • CMS Wordpress
 • E-Commerce
 • UX/UI Design
